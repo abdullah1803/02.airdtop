@@ -1,0 +1,37 @@
+{
+
+ "name": "<mangkukk>",
+
+ "accounts": [abdullah
+
+   {
+
+     "address": "juno1j3fj477z228vmhjkqy5rj2394dqzssxcldpfax",
+
+     "amount": 1000
+
+   },
+
+   {
+
+     "address": "juno1j3fj477z228vmhjkqy5rj2394dqzssxcldpfax",
+
+     "amount": 1100
+
+   }
+
+ ],
+
+ "cw20TokenAddress": "<cosmos1j3fj477z228vmhjkqy5rj2394dqzssxcflzj66>",
+
+ "start": "<airdrop-start-block-number> OR <unix-timestamp> OR null",
+
+ "startType": "<100000> OR null",
+
+ "expiration": "<110000> OR <unix-timestamp> OR null",
+
+ "expirationType": "<120000> OR null",
+
+ "totalAmount": "<5000>"
+
+}
